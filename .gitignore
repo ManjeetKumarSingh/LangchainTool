@@ -1,0 +1,8 @@
+.venv
+__Pycache__/
+# Ignore all files in the src directory
+
+
+
+
+

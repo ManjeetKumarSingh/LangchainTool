@@ -1,0 +1,18 @@
+pip install \
+qdrant-client \
+sentence-transformers \
+rank-bm25 \
+langchain \
+langchain-community \
+langchain-openai \
+unstructured \
+pypdf
+
+# If installation doesnt work then try these 
+pip install \
+langchain \
+langchain-core \
+langchain-openai \
+langchain-community \
+langchain-text-splitters \
+langgraph
