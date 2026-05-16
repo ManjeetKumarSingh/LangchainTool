@@ -1,0 +1,7 @@
+pip install networkx matplotlib
+
+pip install \
+neo4j \
+langchain-text-splitters \
+langchain-openai \
+sentence-transformers
